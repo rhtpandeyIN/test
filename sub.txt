@@ -1,0 +1,5 @@
+var a,b,result
+a=10
+b=14
+result=a-b
+return result
