@@ -1,0 +1,5 @@
+var result, a, b;
+a= 5;
+b= 7;
+result = a+b;
+return result;
